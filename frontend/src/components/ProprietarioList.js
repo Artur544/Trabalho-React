@@ -56,6 +56,7 @@ const ProprietarioList = () => {
                     ))}
                 </tbody>
             </table>
+            <Link to="/Produto" className="button is-primary mt-2">Página Produto</Link>
         </div>
 
 
